@@ -3,7 +3,7 @@
 <h2 align="center">I'm Adrian Alexander Salgado</h2>
 
 <p align="center">
-  Independent Frontend Developer & Creative Coder.
+  Frontend Developer & Creative Coder.
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img alt="Adrian Alexander's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bettercallandru&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <img alt="Adrian Alexander's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byanderraw&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
 </p>
 
 <p align="center">
@@ -41,19 +41,21 @@
 </p>
 
 <p align="center">
-  <a href="http://instagram.com/bettercallandru">
-    <img alt="Static Badge" src="https://img.shields.io/badge/bettercallandru-f2315f?style=for-the-badge&logo=instagram&logoColor=gray&label=Instagram&labelColor=fdbbcb">
+  <a href="http://instagram.com/byanderraw">
+    <img alt="Static Badge" src="https://img.shields.io/badge/byanderraw-f2315f?style=for-the-badge&logo=instagram&logoColor=gray&label=Instagram&labelColor=fdbbcb">
+
+
   </a>
 
-  <a href="https://x.com/bettercallandru">
-    <img alt="Static Badge" src="https://img.shields.io/badge/bettercallandru-gray?style=for-the-badge&logo=x&logoColor=white&label=twitter&labelColor=black&link=http%3A%2F%2Finstagram.com%2Fbettercallandru">
+  <a href="https://x.com/byanderraw">
+    <img alt="Static Badge" src="https://img.shields.io/badge/byanderraw-gray?style=for-the-badge&logo=x&logoColor=white&label=twitter&labelColor=black">
   </a>  
 
-  <a href="https://www.linkedin.com/in/bettercallandru/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/bettercallandru-94aef3?style=for-the-badge&logo=linkedin&logoColor=white&label=linkedin&labelColor=blue&link=http%3A%2F%2Finstagram.com%2Fbettercallandru">
+  <a href="https://www.linkedin.com/in/byanderraw/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/byanderraw-94aef3?style=for-the-badge&logo=linkedin&logoColor=white&label=linkedin&labelColor=blue">
   </a>  
 </p>
 
 <!-- <p align="center">
-    <img alt="Adrian Alexander's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bettercallandru&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+    <img alt="Adrian Alexander's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=byanderraw&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
   </p> -->

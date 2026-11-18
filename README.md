@@ -1,27 +1,27 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Hello%20there%20👋&width=1000&height=150)](https://github.com/Akshay090/svg-banners)
 
-<h2 align="center">I'm Adrian Alexander Salgado</h2>
+<h2 align="center">I'm Adrian Alexander Cano</h2>
 
 <p align="center">
-  Frontend Developer & Creative Coder.
+  <b>Creative Technologist & Emerging Visual Artist</b> based in Bogotá, Colombia.
 </p>
 
 <p align="center">
-  With a strong background in enterprise web apps, I am currently exploring the intersection of <b>Software Engineering</b>, <b>Creative Coding</b>, <b>Interactive Visuals</b> and <b>New Media Art</b>
+With a background in frontend development, I focus on <b>connecting the dots</b> between <b>web development</b>, <b>generative systems</b>, and <b>visual art</b>. In an era of standardized digital interfaces, I treat code as an expressive tool—bringing artistic intention back to design and putting my technical foundation at the service of emotion and visual storytelling.
 </p>
 
 <h3 align="center">🎨 What I Do</h3>
 
 <p align="center">
-  <b>Frontend Development:</b> Building scalable, high-performance interfaces with React & TypeScript.
+<b>Visual Sketches & Audioreactive Systems:</b> Creating real-time visual experiments and diving deep into sound-driven environments in <b>TouchDesigner</b>.
 </p>
 
 <p align="center">
-  <b>Creative Coding:</b> Exploring generative art (TouchDesigner), shaders, and interactive web experiments (p5.js).
+  <b>Generative Graphic Pieces:</b> Crafting static algorithmic compositions and visual studies using <b>JavaScript</b> and <b>Canvas</b>.
 </p>
 
 <p align="center">
-  <b>UI Architecture:</b> Designing maintainable, component-based systems.
+  <b>Web & Frontend for Art:</b> Leveraging my frontend development background (<b>React</b>, <b>TypeScript</b>, modern web) to build custom digital spaces, interactive bridges with TouchDesigner, and tools that expand my visual practice.
 </p>
 
 <h3 align="center">⚡ Technologies & Tools</h3>
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img alt="Adrian Alexander's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byanderraw&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <img alt="Adrian Alexander's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=byanderraw&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
 </p>
 
 <p align="center">
@@ -41,21 +41,13 @@
 </p>
 
 <p align="center">
-  <a href="http://instagram.com/byanderraw">
-    <img alt="Static Badge" src="https://img.shields.io/badge/byanderraw-f2315f?style=for-the-badge&logo=instagram&logoColor=gray&label=Instagram&labelColor=fdbbcb">
+  <a href="http://byanderraw.github.io">
+    <img alt="Static Badge" src="https://img.shields.io/badge/byanderraw-FFF0B4?style=for-the-badge&label=Portfolio%20%26%20Social%20Links&labelColor=FF1354">
 
 
   </a>
-
-  <a href="https://x.com/byanderraw">
-    <img alt="Static Badge" src="https://img.shields.io/badge/byanderraw-gray?style=for-the-badge&logo=x&logoColor=white&label=twitter&labelColor=black">
-  </a>  
-
-  <a href="https://www.linkedin.com/in/byanderraw/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/byanderraw-94aef3?style=for-the-badge&logo=linkedin&logoColor=white&label=linkedin&labelColor=blue">
-  </a>  
 </p>
 
 <!-- <p align="center">
-    <img alt="Adrian Alexander's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=byanderraw&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+    <img alt="Adrian Alexander's Github Stats" src="https://denvercoder1-github-stats-extended.vercel.app/api/?username=byanderraw&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
   </p> -->

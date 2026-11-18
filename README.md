@@ -41,7 +41,7 @@ With a background in frontend development, I focus on <b>connecting the dots</b>
 </p>
 
 <p align="center">
-  <a href="http://byanderraw.github.io">
+  <a href="http://byanderraw.github.io" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/byanderraw-FFF0B4?style=for-the-badge&label=Portfolio%20%26%20Social%20Links&labelColor=FF1354">
 
 
